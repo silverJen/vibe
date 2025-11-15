@@ -42,6 +42,8 @@ npm run preview
 - `main` 브랜치에 푸시할 때마다 자동 배포
 - 배포된 페이지: https://silverjen.github.io/vibe/
 
+자세한 배포 가이드는 [GitHub Pages 배포 문서](../docs/GITHUB_PAGES.md)를 참고하세요.
+
 ## 📝 라이선스
 
 MIT
